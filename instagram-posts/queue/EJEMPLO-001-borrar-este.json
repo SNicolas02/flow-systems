@@ -1,0 +1,4 @@
+{
+  "image": "ejemplo.jpg",
+  "caption": "Este es un archivo de EJEMPLO. Borralo de la carpeta queue/ una vez que entiendas el formato, y reemplazalo por tus posteos reales.\n\nCada posteo es un archivo .json distinto acá adentro, con este formato:\n{\n  \"image\": \"nombre-de-la-imagen.jpg\",\n  \"caption\": \"El texto que va como descripción del posteo, con hashtags y todo\"\n}\n\nLa imagen (nombre-de-la-imagen.jpg) tiene que estar subida en la carpeta instagram-posts/images/ del repo.\n\nEl script publica siempre el archivo .json que sea el PRIMERO en orden alfabético dentro de queue/ — por eso conviene nombrarlos 001-nombre.json, 002-nombre.json, etc., para controlar el orden."
+}
